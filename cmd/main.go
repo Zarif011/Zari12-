@@ -7,4 +7,4 @@ import (
 func main() {
 	manager.InitCommands()
 	manager.Execute()
-}
+} password 
